@@ -1,8 +1,7 @@
 # my-first-trial-repo
 
 Welcome to my first trial repository!  
-This repo is for learning how to use GitHub.  
-You can add more details about your project here.
+This repo is for learning how to use GitHub
 
 ## Getting Started
 
